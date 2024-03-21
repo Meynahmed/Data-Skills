@@ -5,3 +5,6 @@ Python-essentiels :
 1. Généralités
 2. Les variables
 3. Les opérateurs
+4. Les conditions
+5. Les boucles
+6. Les listes
