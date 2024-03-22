@@ -8,3 +8,4 @@ Python-essentiels :
 4. Les conditions
 5. Les boucles
 6. Les listes
+7. Les fonctions
