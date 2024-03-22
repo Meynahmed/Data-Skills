@@ -10,3 +10,5 @@ Python-essentiels :
 6. Les listes
 7. Les fonctions
 8. Les fichiers
+9. Les dictionnaires
+10. les tuples
